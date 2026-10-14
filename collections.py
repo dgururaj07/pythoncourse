@@ -78,6 +78,9 @@ names = ["Alice", "Bob", "Charlie", "David", "Eve", "Frank", "Grace", "Heidi", "
 #print(names[0:3])
 
 
+
+
+
 #print(names[0:10:2])
 
 for name in names:
